@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_notfound.png.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\notfound.png"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.newsapp-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.newsapp-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_back.png.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_haze.gif.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\haze.gif"
+    },
+    {
+        "merged": "com.newsapp-merged_res-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.newsapp-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_sun.gif.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\sun.gif"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_news.png.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\news.png"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\layout_activity_web_view.xml.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_snowflake.gif.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\snowflake.gif"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\layout_cardview.xml.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\layout\\cardview.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\layout_activity_weather.xml.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\layout\\activity_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_next_shape.xml.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\next_shape.xml"
+    },
+    {
+        "merged": "com.newsapp-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.newsapp-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_clouds.gif.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\clouds.gif"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\layout_shimmer_layout.xml.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\layout\\shimmer_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_rain_.png.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\rain_.png"
+    },
+    {
+        "merged": "com.newsapp-merged_res-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.newsapp-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_loading.gif.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\loading.gif"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.newsapp-merged_res-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.newsapp-main-39:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_haze_.png.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\haze_.png"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_sun_.png.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\sun_.png"
+    },
+    {
+        "merged": "com.newsapp-merged_res-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.newsapp-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_search.png.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\search.png"
+    },
+    {
+        "merged": "com.newsapp-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.newsapp-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_search_bg.xml.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\search_bg.xml"
+    },
+    {
+        "merged": "com.newsapp-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.newsapp-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.newsapp-merged_res-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.newsapp-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_cloudy.png.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_rain.gif.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\rain.gif"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.newsapp-merged_res-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.newsapp-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-pngs-33:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_snowflake_.png.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\snowflake_.png"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.newsapp-merged_res-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.newsapp-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\drawable_previous_shape.xml.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\drawable\\previous_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-merged_res-37:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\NISSI265\\.gradle\\daemon\\8.0\\com.newsapp-main-39:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.newsapp-merged_res-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.newsapp-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    }
+]
